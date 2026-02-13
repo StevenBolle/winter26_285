@@ -4,5 +4,6 @@ public class Hello {
             System.out.println("Hello World..."+i);
         }
         System.out.println("Bear was here. This is a change to the file.");
+        System.out.println("For SCM Polling Trigger Considerations.");
     }
 }
