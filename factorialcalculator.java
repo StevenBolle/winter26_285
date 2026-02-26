@@ -8,6 +8,7 @@ public class factorialcalculator {
         }
 
         System.out.println("Factorial of " + num + " is: " + factorial);
+        System.out.println("Mistakes were made. This is me correcting them.");
         System.out.println("SteveBolle branch addition");
     }
 }
