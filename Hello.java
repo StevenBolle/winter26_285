@@ -5,5 +5,6 @@ public class Hello {
         }
         System.out.println("Bear was here. This is a change to the file.");
         System.out.println("For SCM Polling Trigger Considerations.");
+        System.out.println("New line for jenkins testing");
     }
 }
