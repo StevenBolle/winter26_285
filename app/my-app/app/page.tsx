@@ -17,7 +17,7 @@ export default function Home() {
             Steven, get started, edit the page.tsx file.
           </h1>
           <h1>
-            This line was added from Codespace on 4/25/2026 - SMB
+            CIS 285 FINAL EXAM
           </h1>
           <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
             Looking for a starting point or more instructions? Head over to{" "}
